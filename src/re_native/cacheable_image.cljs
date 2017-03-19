@@ -1,4 +1,4 @@
-(ns re-native.cachable-image
+(ns re-native.cacheable-image
   (:require [reagent.core :as r]
             [re-frame.core :as re]))
 
