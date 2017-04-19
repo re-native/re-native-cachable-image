@@ -11,6 +11,7 @@ Tracking | Artifact
 
 ```sh
 npm i react-native-cacheable-image@1.5.1 --save
+react-native link react-native-fs
 ```
 
 ## re-natal
